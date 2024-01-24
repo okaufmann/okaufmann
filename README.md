@@ -4,8 +4,6 @@ Hi, I'm Oliver, a Full Stack Developer at [novu](https://novu.ch) in Bern, 🇨�
 
 ## Contributions
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=okaufmann&theme=cobalt2&date_format=j%20M%5B%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
 (Just a note - I'm not familiar with 'Smarty'. Github is just not able to detect Yaml in Helm Charts correctly 😆.)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=okaufmann&theme=cobalt2&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
