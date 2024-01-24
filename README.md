@@ -1,6 +1,14 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi, I'm Oliver, a Full Stack Developer at [novu](https://novu.ch) in Bern, 🇨🇭. My current focus is on projects utilizing Laravel, Statamic CMS, and Vue.js (specifically Nuxt.js). I'm also actively exploring Kubernetes and related technologies, broadening my skills in cloud-native development.
+Hi, I'm Oliver, a Full Stack Developer at [novu](https://novu.ch) in Bern, 🇨🇭.
+
+I'm currently working with and passionate about the following technologies (among many others):
+
+- [Laravel](https://laravel.com/)
+- [.NET](https://dotnet.microsoft.com/)
+- [Kubernetes](https://kubernetes.io/)
+- [Nuxt](https://nuxt.com/)
+
 
 ## Contributions
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
