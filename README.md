@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi, I'm Oliver, a Full Stack Developer at [novu](https://novu.ch) in Bern, 🇨🇭.
+Hi, I'm Oliver and work as a Technical Director at [Sanio](https://www.sanio.ch) in Bern, 🇨🇭.
 
 I'm currently working with and passionate about the following technologies (among many others):
 
